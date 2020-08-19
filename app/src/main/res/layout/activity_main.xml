@@ -8,7 +8,7 @@
 
     <EditText
         android:id="@+id/monthlySavingsEditText"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="45dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -22,7 +22,7 @@
 
     <EditText
         android:id="@+id/interestEditText"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="45dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -36,7 +36,7 @@
 
     <EditText
         android:id="@+id/ageEditText"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="45dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -50,7 +50,7 @@
 
     <EditText
         android:id="@+id/retirementEditText"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="45dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -64,7 +64,7 @@
 
     <EditText
         android:id="@+id/currentEditText"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="45dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -78,7 +78,7 @@
 
     <Button
         android:id="@+id/calculateButton"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -90,7 +90,7 @@
 
     <TextView
         android:id="@+id/resultTextView"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="214dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
